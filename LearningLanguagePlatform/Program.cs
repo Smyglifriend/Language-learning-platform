@@ -1,4 +1,4 @@
-using LearningLanguage.Data;
+using LearningLanguagePlatform.Data;
 using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Components.Web;
 

@@ -1,4 +1,4 @@
-namespace LearningLanguage.Data
+namespace LearningLanguagePlatform.Data
 {
     public class WeatherForecastService
     {
